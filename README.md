@@ -20,8 +20,10 @@ Memory|20GB (Notebook comes with two 4GB sticks in one is soldered. So I removed
 WIFI Card|Fenvi (I changed the notebook's original wifi card, because the one that came in my notebook was unfortunately only compatible with windows and detail (it was also not from intel so it didn't have compatibility with macOS). So I bought an Aliexpress card from Fenvi and successfully the Wifi worked natively) 
 Update BIOS|VERSION (I did a bios update normally like everyone else does and after that I also made a bios modification so that the notebook had the same behavior as the macbook pro)
 
+
 ```
 - Updating the bios and modifying it to prevent your Hackintosh from crashing in different ways
 ```
+
 
 ## observation As soon as possible I finish the readme of this repository plus the basic for the UFI to work 100% smooth as it is in my notebook is there see in the previews folder. Just one more thing before using the UFI change the serial numbers please.
