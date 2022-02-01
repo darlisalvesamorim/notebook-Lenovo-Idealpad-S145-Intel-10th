@@ -4,12 +4,10 @@
 
 Piece|Model
 :----|:----
-[Intel Processor]|I7-1065G7, 10TH GEN
-1. Intel 
-2. Graphics Card - Intel Iris Plus
-3. SSD NVME 240GB
-4. Memory 8GB
-
+Intel Processor|I7-1065G7, 10TH GEN
+Graphics Card|Intel Iris Plus
+Storage|SSD NVME 240GB
+Memory|8GB
 
 **Upgrade of Notebook**
 
