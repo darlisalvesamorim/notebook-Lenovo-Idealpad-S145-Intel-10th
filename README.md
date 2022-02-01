@@ -26,4 +26,4 @@ Update BIOS|VERSION (I did a bios update normally like everyone else does and af
 ```
 
 
-** Observation: As soon as possible I finish the readme of this repository plus the basic for the UFI to work 100% smooth as it is in my notebook is there see in the previews folder. Just one more thing before using the UFI change the serial numbers please.
+**Observation: As soon as possible I finish the readme of this repository plus the basic for the UFI to work 100% smooth as it is in my notebook is there see in the previews folder. Just one more thing before using the UFI change the serial numbers please.
