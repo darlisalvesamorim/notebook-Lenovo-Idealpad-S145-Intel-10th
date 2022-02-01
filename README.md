@@ -1,5 +1,16 @@
 # UFI NOTEBOOK - Lenovo Idealpad S145
 
-**Markdown plugin for Sublime Text**
+**Settings Defaults of Notebook**
 
-![UFI-NOTEBOOK---Lenovo-Idealpad-S145--I7-1065G7--Placa-de-Video-Intel-Iris-Plus][macOs preview 1]
+Piece|Model
+:----|:----
+[Intel Processor]|I7-1065G7, 10TH GEN
+1. Intel 
+2. Graphics Card - Intel Iris Plus
+3. SSD NVME 240GB
+4. Memory 8GB
+
+
+**Upgrade of Notebook**
+
+1. Memory 20GB ()
