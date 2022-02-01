@@ -21,5 +21,5 @@ WIFI Card|Fenvi (I changed the notebook's original wifi card, because the one th
 Update BIOS|
 
 ```
-- <span style="color:red">some *blue* text</span>.
+- **dsds
 ```
