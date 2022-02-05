@@ -4,8 +4,9 @@
 
 Piece|Model
 :----|:----
-Intel Processor|I7-1065G7, 10TH GEN
-Graphics Card|Intel Iris Plus
+Plataforma|Notebook Lenovo Idealpad S145 | Intel 10th
+Processador|Intel I7-1065G7
+Vídeo|iGPU (integrado) Intel Iris Plus
 Storage|SSD NVME 240GB
 Memory|8GB
 BIOS|Of Manufactures
