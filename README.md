@@ -1,4 +1,4 @@
-# UFI NOTEBOOK - Lenovo Idealpad S145
+# UFI Notebook Lenovo Idealpad S145 | Intel 10th
 
 **Settings defaults of notebook:**
 
