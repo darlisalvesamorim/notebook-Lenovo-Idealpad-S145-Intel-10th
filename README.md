@@ -22,6 +22,16 @@ WIFI Card|Fenvi (I changed the notebook's original wifi card, because the one th
 Update BIOS|VERSION (I did a bios update normally like everyone else does and after that I also made a bios modification so that the notebook had the same behavior as the macbook pro)
 
 
+**UFI Settings:**
+
+Options|Information
+:----|:----
+SMBIOS|MacBookPro16,2
+macOS|Monterey atualizado desde a primeira versão sem o pendrive
+Opencore|0.7.6
+
+
+
 ```
 - Updating the bios and modifying it to prevent your Hackintosh from crashing in different ways
 ```
